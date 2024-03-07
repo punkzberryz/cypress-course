@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "cypress run",
+    "cy:run": "cypress run",
+    "cy:run:component": "cypress run --component"
+    
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",

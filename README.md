@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 A study on Front-end Testing with Cypress from [freeCodeCamp](https://www.youtube.com/watch?v=u8vMu7viCm8&list=WL&index=55&t=1155s).
 
 ## Getting Started
